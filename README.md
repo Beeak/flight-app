@@ -10,9 +10,9 @@ Data is coming from the public [airplanes.live API](https://airplanes.live/api-g
 
 #### Planned technologies
 
-Front - React-native (plan is to get it uploaded to the Play store for AdSense $$$)
+Front - [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) (plan is to get it uploaded to the Play store for AdSense $$$)
 
-Backend - Laravel
+Backend - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 
 
 ## Main planned features
