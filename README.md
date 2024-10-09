@@ -1,3 +1,6 @@
+OTHER LANGUAGES:
+[Estonian]([https://github.com/Beeak/flight-app/main/README-ee.md)
+
 1. Notification Alerts
 
 Real-time alerts about planes within the set radius
