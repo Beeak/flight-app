@@ -19,11 +19,11 @@ Backend - Laravel
 
 1. Notification Alerts
 
-  1. Real-time alerts about planes within the set radius
+    1. Real-time alerts about planes within the set radius
   
-  2. Include details like flight number, airline, departure and arrival cities
+    2. Include details like flight number, airline, departure and arrival cities
   
-  3. Customizable notification settings (e.g., time of day, specific airlines)
+    3. Customizable notification settings (e.g., time of day, specific airlines)
 
 2. Plane Collection
 
