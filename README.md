@@ -11,6 +11,7 @@ Data is coming from the public [airplanes.live API](https://airplanes.live/api-g
 #### Planned technologies
 
 Front - React-native (plan is to get it uploaded to the Play store for AdSense $$$)
+
 Backend - Laravel
 
 
