@@ -27,21 +27,21 @@ Backend - Laravel
 
 2. Plane Collection
 
-  1. Digital logbook to ‘collect’ planes
+      1. Digital logbook to ‘collect’ planes
   
-  2. Users can add photos, notes, and tags to each plane
+     2. Users can add photos, notes, and tags to each plane
   
-  3. Categories and filters (e.g., by airline, type, flight path)
+      3. Categories and filters (e.g., by airline, type, flight path)
   
-  4. Achievements and badges for certain milestones (e.g., 50 different airlines)
+      4. Achievements and badges for certain milestones (e.g., 50 different airlines)
 
 3. Leaderboards
 
-  1. Global and friend-specific leaderboards
+      1. Global and friend-specific leaderboards
   
-  2. Points system for collecting planes, rare finds, and activity
+      2. Points system for collecting planes, rare finds, and activity
   
-  3. Monthly and overall rankings with rewards for top collectors
+      3. Monthly and overall rankings with rewards for top collectors
   
 (FIND OUT A WAY TO NEGATE GPS SPOOFING)
 
