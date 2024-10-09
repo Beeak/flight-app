@@ -19,21 +19,29 @@ Backend - Laravel
 
 1. Notification Alerts
 
-  1.1 Real-time alerts about planes within the set radius
-  1.2 Include details like flight number, airline, departure and arrival cities
-  1.3 Customizable notification settings (e.g., time of day, specific airlines)
+  1. Real-time alerts about planes within the set radius
+  
+  2. Include details like flight number, airline, departure and arrival cities
+  
+  3. Customizable notification settings (e.g., time of day, specific airlines)
 
 2. Plane Collection
 
-  2.1 Digital logbook to ‘collect’ planes
-  2.2 Users can add photos, notes, and tags to each plane
-  2.3 Categories and filters (e.g., by airline, type, flight path)
-  2.4 Achievements and badges for certain milestones (e.g., 50 different airlines)
+  1. Digital logbook to ‘collect’ planes
+  
+  2. Users can add photos, notes, and tags to each plane
+  
+  3. Categories and filters (e.g., by airline, type, flight path)
+  
+  4. Achievements and badges for certain milestones (e.g., 50 different airlines)
 
 3. Leaderboards
 
-  3.1 Global and friend-specific leaderboards
-  3.2 Points system for collecting planes, rare finds, and activity
-  3.3 Monthly and overall rankings with rewards for top collectors
+  1. Global and friend-specific leaderboards
+  
+  2. Points system for collecting planes, rare finds, and activity
+  
+  3. Monthly and overall rankings with rewards for top collectors
+  
 (FIND OUT A WAY TO NEGATE GPS SPOOFING)
 
