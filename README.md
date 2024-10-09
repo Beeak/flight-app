@@ -1,7 +1,7 @@
 # flight-app
 
-README IN OTHER LANGUAGES:
-[Estonian](https://github.com/Beeak/flight-app/blob/main/README-ee.md)
+**README IN OTHER LANGUAGES:
+[Estonian](https://github.com/Beeak/flight-app/blob/main/README-ee.md)**
 
 
 An app made for tracking and collecting planes around you. 
