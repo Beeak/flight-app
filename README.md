@@ -8,6 +8,11 @@ An app made for tracking and collecting planes around you.
 The idea for the app came from my long time wish to see planes flying around you in a fixed radius.
 Data is coming from the public [airplanes.live API](https://airplanes.live/api-guide/).
 
+#### Planned technologies
+
+Front - React-native (plan is to get it uploaded to the Play store for AdSense $$$)
+Backend - Laravel
+
 
 ## Main planned features
 
