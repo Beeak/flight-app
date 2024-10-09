@@ -9,7 +9,7 @@ The idea for the app came from my long time wish to see planes flying around you
 Data is coming from the public [airplanes.live API](https://airplanes.live/api-guide/).
 
 
-### Main planned features
+## Main planned features
 
 1. Notification Alerts
 
