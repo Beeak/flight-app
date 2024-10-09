@@ -1,5 +1,14 @@
-OTHER LANGUAGES:
+# flight-app
+
+README IN OTHER LANGUAGES:
 [Estonian](https://github.com/Beeak/flight-app/blob/main/README-ee.md)
+
+
+An app made for tracking and collecting planes around you. 
+The idea for the app came from my long time wish to see planes flying around you in a fixed radius.
+Data is coming from the public [airplanes.live API](https://airplanes.live/api-guide/).
+
+
 
 1. Notification Alerts
 
@@ -26,3 +35,5 @@ Global and friend-specific leaderboards
 Points system for collecting planes, rare finds, and activity
 
 Monthly and overall rankings with rewards for top collectors
+
+(FIND OUT A WAY TO NEGATE GPS SPOOFING)
