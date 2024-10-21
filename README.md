@@ -8,6 +8,8 @@ An app made for tracking and collecting planes around you.
 The idea for the app came from my long time wish to see planes flying around you in a fixed radius.
 Data is coming from the public [airplanes.live API](https://airplanes.live/api-guide/).
 
+![ClickUp Badge](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=fff&style=for-the-badge) [Link to the CLickUp](https://app.clickup.com/9012335212/v/s/90121753920)
+
 #### Planned technologies
 
 Front - [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [Private Repo](https://github.com/Beeak/flight-app-native) (plan is to get it uploaded to the Play store for AdSense $$$)
