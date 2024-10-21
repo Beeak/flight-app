@@ -10,6 +10,8 @@ Data is coming from the public [airplanes.live API](https://airplanes.live/api-g
 
 ![ClickUp Badge](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=fff&style=for-the-badge) [Link to the CLickUp](https://app.clickup.com/9012335212/v/s/90121753920)
 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [Link to the Figma](https://www.figma.com/design/Ajmdcmsw4rnFPcDAaGwNqI/Flight-app?node-id=0-1&t=KqKWYDtUexU2FrKq-1)
+
 #### Planned technologies
 
 Front - [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [Private Repo](https://github.com/Beeak/flight-app-native) (plan is to get it uploaded to the Play store for AdSense $$$)
