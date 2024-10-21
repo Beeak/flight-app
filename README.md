@@ -12,7 +12,7 @@ Data is coming from the public [airplanes.live API](https://airplanes.live/api-g
 
 Front - [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [Private Repo](https://github.com/Beeak/flight-app-native) (plan is to get it uploaded to the Play store for AdSense $$$)
 
-Backend - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+Backend - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [Private Repo](https://github.com/Beeak/flight-app-laravel)
 
 
 ## Main planned features
