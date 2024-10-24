@@ -47,11 +47,10 @@ Backend - [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=la
   
       3. Monthly and overall rankings with rewards for top collectors
 
-4. Problems / Question needed to be answered
+4. Problems / Questions needed to be answered
   
     1. How to negate GPS spoofing?
 
     2. How to make Google Maps navigation notification like active, priority notiifications?
-
        2.1. How much space am I able to use while building it?
 
