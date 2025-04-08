@@ -1,4 +1,4 @@
-# flight-app
+# PaperPlane
 
 **README IN OTHER LANGUAGES:
 [Estonian](https://github.com/Beeak/flight-app/blob/main/README-ee.md)**
