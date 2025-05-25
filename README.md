@@ -8,10 +8,14 @@ An app made for tracking and collecting planes around you.
 The idea for the app came from my long time wish to see planes flying around you in a fixed radius.
 Data is coming from the public [airplanes.live API](https://airplanes.live/api-guide/).
 
-![ClickUp Badge](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=fff&style=for-the-badge) [Link to the ClickUp](https://app.clickup.com/9012335212/v/s/90121753920) [Link to the PUBLIC ClickUp view](https://sharing.clickup.com/9012335212/l/h/6-901205083945-1/b0021e2cf9798d2
-)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [Link to the Jira](https://beeak.atlassian.net/jira)
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [Link to the Figma](https://www.figma.com/design/Ajmdcmsw4rnFPcDAaGwNqI/Flight-app?node-id=0-1&t=KqKWYDtUexU2FrKq-1)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#) [Link to the Confluence](https://beeak.atlassian.net/confluence)
+
+~~![ClickUp Badge](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=fff&style=for-the-badge) [Link to the ClickUp](https://app.clickup.com/9012335212/v/s/90121753920) [Link to the PUBLIC ClickUp view](https://sharing.clickup.com/9012335212/l/h/6-901205083945-1/b0021e2cf9798d2
+)~~ NOT IN USE ANYMORE
+
+~~[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [Link to the Figma](https://www.figma.com/design/Ajmdcmsw4rnFPcDAaGwNqI/Flight-app?node-id=0-1&t=KqKWYDtUexU2FrKq-1)~~ NOT IN USE ANYMORE
 
 #### Planned technologies
 
