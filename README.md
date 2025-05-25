@@ -10,7 +10,7 @@ Data is coming from the public [airplanes.live API](https://airplanes.live/api-g
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [Link to the Jira](https://beeak.atlassian.net/jira)
 
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#) [Link to the Confluence](https://beeak.atlassian.net/confluence)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#) [Link to the Confluence](https://beeak.atlassian.net/wiki)
 
 ~~![ClickUp Badge](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=fff&style=for-the-badge) [Link to the ClickUp](https://app.clickup.com/9012335212/v/s/90121753920) [Link to the PUBLIC ClickUp view](https://sharing.clickup.com/9012335212/l/h/6-901205083945-1/b0021e2cf9798d2
 )~~ NOT IN USE ANYMORE
